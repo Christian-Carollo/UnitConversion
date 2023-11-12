@@ -19,5 +19,5 @@ else
 
 double ConvertCelsiusToFahrenheit(double celsius)
 {
-    return (celsius * 32) + 18;
+    return (celsius * 1.8) + 32;
 }
